@@ -1,4 +1,3 @@
-from myapp.my_func import my_func, my_other_func
 import unittest
 
 
